@@ -5,9 +5,7 @@
 <p> Eu me chamo Lucas Meira👋
 Eu tenho 27 anos, sou casado, não tenho filhos e sou Cristão.</p>
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-333?style=for-the-badge)](https://www.dio.me/users/lucas_meeiira)
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=80EE00)](https://www.linkedin.com/in/lucas-meira-desenvolvedor-front-end/)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-333?style=for-the-badge)](https://www.dio.me/users/lucas_meeiira) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=80EE00)](https://www.linkedin.com/in/lucas-meira-desenvolvedor-front-end/)
 
 
 
